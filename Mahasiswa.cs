@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tpmodul10_1302220024
 {
-    internal class Mahasiswa
+    public class Mahasiswa
     {
         public string Nama { get; set; }
         public string NIM { get; set; }
